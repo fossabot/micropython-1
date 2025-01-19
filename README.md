@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fmicropython.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fmicropython?ref=badge_shield)
+
 MicroPython for the BBC micro:bit
 =================================
 
@@ -80,3 +82,7 @@ from your PC, eg:
     $ ./tools/pyboard.py /dev/ttyACM0 examples/conway.py
 
 Be brave! Break things! Learn and have fun!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fmicropython.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fmicropython?ref=badge_large)
